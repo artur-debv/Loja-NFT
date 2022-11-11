@@ -1,4 +1,9 @@
 
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 
 
 
@@ -16,13 +21,40 @@
   html {
     scroll-behavior: smooth;
   }
-  
-
 
 
   body{
     font-family: 'Poppins', sans-serif;
   }
+  
+
+.h2_about_1{
+    font-size: 20px;
+}
+
+
+#footer {
+    background: black;
+    color: #919496;
+    height: 138px;
+}
+
+.h2-footer {
+    text-align: center;
+    padding-top: 44px;
+    margin-bottom: 20px;
+    margin-left: -65px;
+}
+
+
+.icons-about {
+    text-align: center;
+    font-size: 22px;
+    margin-top: -13px;
+}
+
+
+  
 
 
 *{
@@ -39,10 +71,11 @@
 
 
 .p_container{
-    margin-top: 36px;
+    margin-top: -12px;
     padding-left: 175px;
     color: white;
     margin-bottom: 49px;
+    font-size: 18px;
 }
 
 .img{
@@ -438,6 +471,7 @@
     display: flex;
     gap: 26px;
     margin-left: 86px;
+    justify-content: center;
 }
 
 
@@ -448,6 +482,7 @@
     display: flex;
     gap: 20px;
     margin-left: -131px;
+    justify-content: center;
 }
 
 .nft_4{
@@ -592,19 +627,23 @@ li a{
 .img_icon_1{
     width: 227px;
     margin-left: 101px;
+    cursor: pointer;
 }
 
+
+
+
 .img_icon{
-    margin-top: -154px;
+    margin-top: -228px;
     width: 189px;
-    margin-left: 32px;
+    margin-left: 28px;
 }
 
 .p_about{
     color: white;
     font-size: 40px;
-    margin-left: 59px;
-    margin-top: -152px;
+    margin-left: 87px;
+    margin-top: -172px;
 }
 
 
