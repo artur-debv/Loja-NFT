@@ -1,0 +1,200 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.container{
+    background-color: black;
+    height: 136px;
+}
+
+
+li a {
+    text-decoration: none;
+    font-size: 20px;
+}
+
+
+nav {
+    margin-left: -25px;
+    margin-top: 3px;
+}
+
+
+nav ul li {
+    display: inline-block;
+    margin-right: 30px;
+}
+
+a {
+    color: white;
+    font-size: 18px;
+}
+
+
+
+.container_form{
+    text-align: center;
+    margin-top: 122px;
+}
+
+
+.a_home {
+    color: white;
+}
+
+
+.img_icon_1 {
+    width: 227px;
+    margin-left: 101px;
+    cursor: pointer;
+}
+
+
+ul {
+    margin-top: -3px;
+    margin-left: -4px;
+    display: flex;
+}
+
+
+
+.menu {
+    display: flex;
+    gap: 59px;
+    padding: 0 5%;
+    height: 111px;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-left: -41px;
+    padding-top: 20px;
+}
+
+
+.container_all {
+    background-color: white;
+    margin-top: -64px;
+    height: 464px;
+}
+
+
+form {
+    margin-left: 505px;
+}
+
+
+.label_form_1 {
+    display: block;
+    margin-bottom: -8px;
+}
+
+
+.input_form {
+    outline: 0;
+}
+
+
+.input_form {
+    width: 384px;
+    height: 41px;
+    margin-bottom: 16px;
+    padding-left: 10px;
+}
+
+
+.label_form_2 {
+    display: block;
+    margin-bottom: 9px;
+}
+
+
+.href_info {
+    margin-left: 276px;
+    color: #666;
+    text-decoration: none;
+}
+
+
+.btn_primary {
+    display: block;
+    background: #5846f9;
+    border: 0;
+    padding: 10px 24px;
+    color: #fff;
+    transition: 0.4s;
+    border-radius: 5px;
+    background-color: rgb(248, 0, 50);
+    border: 0;
+    padding: 10px 24px;
+    color: #fff;
+    transition: 0.4s;
+    border-radius: 5px;
+    height: 42px;
+    width: 382px;
+    padding-top: 11px;
+    padding-left: 11px;
+    cursor: pointer;
+}
+
+
+.input_2 {
+    width: 384px;
+    height: 41px;
+    margin-bottom: 16px;
+    padding-left: 10px;
+    outline: 0;
+}
+
+
+.title {
+    padding: 35px;
+    margin-left: 190px;
+    padding-top: 42px;
+}
+
+.href_home {
+    color: white;
+    text-decoration: none;
+}
+
+
+.p_link {
+    color: #666;
+    padding: 20px;
+    padding-left: 88px;
+    padding-top: 30px;
+}
+
+
+.href_link {
+    color: #666;
+}
+
+
+
+.p_form {
+    font-size: 18px;
+   margin-bottom: 23px;
+    text-transform: lowercase;
+    color: rgb(102, 102, 102);
+    margin-top: 8px;
+    text-align: center;
+}
+
+.h1_form{
+    margin-bottom: 20px;
+}
+
+.title_h1 {
+    color: white;
+    font-size: 40px;
+}
+
+
+.container_title{
+    padding: 35px;
+    margin-left: 190px;
+    padding-top: 52px;
+}
